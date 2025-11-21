@@ -1,6 +1,6 @@
-name: 'yqn'
+name: 'echo'
 desc: |-
-  yqn公司内网配置
+  一些覆盖性的配置
 
 rules:
   - 'DOMAIN-SUFFIX,iyunquna.com,DIRECT'
