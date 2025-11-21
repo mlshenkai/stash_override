@@ -4,7 +4,6 @@ desc: |-
 
 rules:
   - 'DOMAIN-SUFFIX,iyunquna.com,DIRECT'
-  - 'DOMAIN-SUFFIX,linux.do,DIRECT'
   - 'DOMAIN-SUFFIX,yqn.com,DIRECT'
   - 'DOMAIN-SUFFIX,chatgpt.com,🔥ChatGPT'
   - 'DOMAIN-SUFFIX,openai.com,🔥ChatGPT'
