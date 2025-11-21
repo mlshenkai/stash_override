@@ -1,0 +1,16 @@
+name: 'vibe coding'
+desc: |-
+  chatgpt
+  claude code
+  gemini
+  cursor
+
+rules:
+  - DOMAIN-SUFFIX,chatgpt.com,🔥ChatGPT
+  - DOMAIN-SUFFIX,openai.com,🔥ChatGPT
+  - DOMAIN-SUFFIX,cursor.com,🔥ChatGPT
+  - DOMAIN-SUFFIX,cursor.sh,🔥ChatGPT
+  - DOMAIN-SUFFIX,claude.ai,🔥ChatGPT
+  - DOMAIN-SUFFIX,anthropic.com,🔥ChatGPT
+  - DOMAIN-SUFFIX,googleapis.com,🔥ChatGPT
+  - DOMAIN-SUFFIX,google-analytics.com,🔥ChatGPT
