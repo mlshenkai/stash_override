@@ -3,7 +3,7 @@ desc: |-
   vibe coding
 
 rules:
-  - DOMAIN-SUFFIX,chatgpt.com,🔥ChatGPT
-  - DOMAIN-SUFFIX,openai.com,🔥ChatGPT
-  - DOMAIN-SUFFIX,cursor.sh,🔥ChatGPT
+  - DOMAIN-SUFFIX,chatgpt.com,ChatGPT
+  - DOMAIN-SUFFIX,openai.com,ChatGPT
+  - DOMAIN-SUFFIX,cursor.sh,ChatGPT
 
