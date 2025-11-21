@@ -3,13 +3,13 @@ desc: |-
   yqn公司内网配置
 
 rules:
-  - DOMAIN-SUFFIX,iyunquna.com,DIRECT
-  - DOMAIN-SUFFIX,yqn.com,DIRECT
-  - DOMAIN-SUFFIX,chatgpt.com,ChatGPT
-  - DOMAIN-SUFFIX,openai.com,ChatGPT
-  - DOMAIN-SUFFIX,cursor.com,ChatGPT
-  - DOMAIN-SUFFIX,cursor.sh,ChatGPT
-  - DOMAIN-SUFFIX,claude.ai,ChatGPT
-  - DOMAIN-SUFFIX,anthropic.com,ChatGPT
-  - DOMAIN-SUFFIX,googleapis.com,ChatGPT
-  - DOMAIN-SUFFIX,google-analytics.com,ChatGPT
+  - 'DOMAIN-SUFFIX,iyunquna.com,DIRECT'
+  - 'DOMAIN-SUFFIX,yqn.com,DIRECT'
+  - 'DOMAIN-SUFFIX,chatgpt.com,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,openai.com,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,cursor.com,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,cursor.sh,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,claude.ai,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,anthropic.com,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,googleapis.com,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,google-analytics.com,🔥ChatGPT'
