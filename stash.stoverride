@@ -14,3 +14,6 @@ rules:
   - 'DOMAIN-SUFFIX,anthropic.com,🔥ChatGPT'
   - 'DOMAIN-SUFFIX,googleapis.com,🔥ChatGPT'
   - 'DOMAIN-SUFFIX,google-analytics.com,🔥ChatGPT'
+  - 'DOMAIN-SUFFIX,google.com,🔥ChatGPT'
+  - 'DOMAIN-KEYWORD,google,🔥ChatGPT'
+  - 'DOMAIN-KEYWORD,gemini,🔥ChatGPT'
