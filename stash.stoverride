@@ -17,3 +17,5 @@ rules:
   - 'DOMAIN-SUFFIX,google.com,🔥ChatGPT'
   - 'DOMAIN-KEYWORD,google,🔥ChatGPT'
   - 'DOMAIN-KEYWORD,gemini,🔥ChatGPT'
+  - 'PROCESS-PATH,/Applications/Antigravity.app/Contents/MacOS/Electron,🔥ChatGPT'
+  - 'PROCESS-PATH,/Applications/Antigravity.app/Contents/Frameworks/,🔥ChatGPT'
