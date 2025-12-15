@@ -1,0 +1,8 @@
+name: 'echo'
+desc: |-
+  一些覆盖性的配置
+
+rules:
+  - 'DOMAIN-SUFFIX,iyunquna.com,DIRECT'
+  - 'DOMAIN-SUFFIX,yqn.com,DIRECT'
+  - 'DOMAIN-SUFFIX,linux.do,DIRECT'
