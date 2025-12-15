@@ -1,6 +1,6 @@
-name: 'echo'
+name: 'intranet'
 desc: |-
-  一些覆盖性的配置
+  一些内网覆盖性的配置
 
 rules:
   - 'DOMAIN-SUFFIX,iyunquna.com,DIRECT'
