@@ -5,4 +5,3 @@ desc: |-
 rules:
   - 'DOMAIN-SUFFIX,iyunquna.com,DIRECT'
   - 'DOMAIN-SUFFIX,yqn.com,DIRECT'
-  - 'DOMAIN-SUFFIX,linux.do,DIRECT'
