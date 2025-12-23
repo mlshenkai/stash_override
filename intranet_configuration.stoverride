@@ -7,3 +7,4 @@ rules:
   - 'DOMAIN-SUFFIX,yqn.com,DIRECT'
   - 'DOMAIN-SUFFIX,openai.com,SK'
   - 'DOMAIN-SUFFIX,chatgpt.com,SK'
+  - 'DOMAIN-SUFFIX,google.com,SK'
