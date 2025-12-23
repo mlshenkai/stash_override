@@ -8,3 +8,5 @@ rules:
   - 'DOMAIN-SUFFIX,openai.com,SK'
   - 'DOMAIN-SUFFIX,chatgpt.com,SK'
   - 'DOMAIN-SUFFIX,google.com,SK'
+  - 'DOMAIN-SUFFIX,cursor.com,SK'
+  - 'DOMAIN-SUFFIX,cursor.sh,SK'
